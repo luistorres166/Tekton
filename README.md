@@ -7,4 +7,3 @@
 
 >I worked on the user profiles component to run in conjunction with the new user registration as well updating personal information for the web application for both the desktop and mobile view. 
 
-Languares used 
